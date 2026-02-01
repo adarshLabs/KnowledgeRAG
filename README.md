@@ -45,6 +45,6 @@ QueryX is an intelligent chatbot designed to answer questions based on your own 
 
 ## Tech Stack
 - **Framework**: Streamlit
-- **LLM**: Google Gemini 1.5 Flash
+- **LLM**: Google Gemini 2.5 Flash
 - **Vector Store**: ChromaDB
 - **Orchestration**: LangChain & LangGraph
