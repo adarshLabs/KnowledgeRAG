@@ -1,0 +1,17 @@
+# Environment
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Data / State
+chroma_db/
+processed_state.json
+
+# OS
+.DS_Store
+
+#image
+image.png
